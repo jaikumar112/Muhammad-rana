@@ -1,0 +1,281 @@
+{
+  "hero": {
+    "imgUrl": "/images/muhammad rana.webp",
+    "name": "Muhammad Rana",
+    "heading": "Hay! I’m Muhammad",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": "I am Muhammad Rana, a proficient and experienced digital marketing professional, with a proven record of delivering sustainable results for clients across various industries.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "/"
+    },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/muhammadrana.webp",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
+    "description": "Hello, I’m Muhammad Rana, a digital marketer, SEO specialist, and website designer. With over 5 years of experience, I specialize in creating custom WordPress and Shopify websites, including e-commerce stores, business websites, portfolio websites, and blogs. I began my career as an SEO specialist and eventually gained expertise in website design, enabling me to offer my clients a complete digital marketing solution.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 15
+      },
+      {
+        "title": "Awward Winning",
+        "number": 49
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/muhammad ali popup.png",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "category":"design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/jai kumar popup.png",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "category":"design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup baner (1).png",
+        "title": "Dashboard Design",
+        "subTitle": "Web Design, App Design",
+        "category":"web",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup baner (2).png",
+        "title": "Mobile App Design",
+        "subTitle": "Web Design, App Design",
+        "category":"mobile",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup baner (3).png",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/popup baner (1).png",
+        "title": "Shopify Expert",
+        "subTitle": "I Create And Optimize Visually Stunning Shopify Stores,Focusing On Theme Customization,Seo To Boost Your Sales.Let's Make Your Ecommerce Platform Stand Out!.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/popup baner (2).png",
+        "title": "Wordpress Expert",
+        "subTitle": "I Design And Develop Dynamic Wordpress Sites That Are Visually Appealing And User-friendly. From Custom Themes To Robust Plugins, I Ensure Your Site Excels.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/popup baner (3).png",
+        "title": "SEO Marketing",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Web Designer",
+        "subTitle": "I Specialize In HTML,CSS,and JavaScript To Create responsive,Interactive Websites.Let's Build A Seamless And Engaging User Experience For Your Audience.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "As a Front-end Developer, I specialize in crafting responsive and user-friendly websites using modern technologies like HTML, CSS, JavaScript, and frameworks like React. With a strong focus on clean design and seamless functionality, I bring concepts to life through interactive and visually appealing interfaces. My work emphasizes performance, accessibility, and cross-browser compatibility. I thrive on transforming ideas into engaging digital experiences. ."
+      },
+      {
+        "designation": "Shopify Expert",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Shopify Expertise",
+        "companyDescription": "I specialize in designing and optimizing Shopify stores that captivate your audience and drive results. From custom theme development to advanced SEO strategies, I ensure your online store not only looks stunning but also performs at its best. My services include creating a seamless user experience, integrating powerful tools and apps, and optimizing site speed for better engagement. Let's transform your eCommerce vision into a platform that stands out and boosts sales effectively!."
+      },
+      {
+        "designation": "WordPress Expert",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "WordPress Expert",
+        "companyDescription": "I am a WordPress website expert, specializing in creating dynamic, responsive, and feature-rich websites tailored to your unique needs. Whether it's a blog, eCommerce store, business site, or portfolio, I deliver designs that captivate and functionalities that empower. From custom themes to seamless plugin integration, I ensure optimal performance and scalability. With a strong focus on SEO and user experience, I help your site rank higher and engage visitors effectively. Let’s build a WordPress site that elevates your brand!."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/conatct (1).png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "muhammadrana411@gmail.com" },
+      { "title": "write an e-mail", "tel": "+92 303 8900797" }
+    ]
+  }
+}
