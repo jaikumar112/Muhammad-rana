@@ -6,10 +6,8 @@ const Projects = ({ data }) => {
   const [selectedProject, setSelectedProject] = useState(null);
   const [viewType, setViewType] = useState(null);
   const [activeTab, setActiveTab] = useState('all');
-  const [key, setKey] = useState(0); // Add key for forcing animation reset
+  const [key, setKey] = useState(0); 
   const { sectionHeading, allProjects } = data;
-
-  // Sample categories - replace with your actual categories
   const categories = ['all', 'web', 'mobile', 'design'];
 
   const filteredProjects = activeTab === 'all' 
@@ -23,7 +21,7 @@ const Projects = ({ data }) => {
 
   const handleTabChange = (category) => {
     setActiveTab(category);
-    setKey(prev => prev + 1); // Increment key to force animation reset
+    setKey(prev => prev + 1); 
   };
 
   return (
