@@ -206,6 +206,13 @@
         "subTitle": "I Specialize In HTML,CSS,and JavaScript To Create responsive,Interactive Websites.Let's Build A Seamless And Engaging User Experience For Your Audience.",
         "icon": "bi:palette",
         "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Web Designer",
+        "subTitle": "I Specialize In HTML,CSS,and JavaScript To Create responsive,Interactive Websites.Let's Build A Seamless And Engaging User Experience For Your Audience.",
+        "icon": "bi:palette",
+        "ratings": 5
       }
     ]
   },
