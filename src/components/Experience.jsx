@@ -1,5 +1,8 @@
-import React from 'react';
-import SectionHeading from './SectionHeading';
+import React from "react";
+import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
+import "react-vertical-timeline-component/style.min.css"; // Required styles for the timeline
+import { FaBriefcase, FaLaptopCode } from "react-icons/fa"; // Example icons
+import SectionHeading from "./SectionHeading";
 
 export default function Experience({ data }) {
   const { sectionHeading, allExperience } = data;
@@ -11,36 +14,40 @@ export default function Experience({ data }) {
           miniTitle={sectionHeading.miniTitle}
           title={sectionHeading.title}
         />
-        <div className="row gy-3">
+
+        <VerticalTimeline>
           {allExperience?.map((item, index) => (
-            <div
-              className="col-12"
+            <VerticalTimelineElement
               key={index}
-              data-aos="fade-up"
-              data-aos-duration="1200"
-              data-aos-delay={index * 100}
+              className="vertical-timeline-element--work"
+              contentStyle={{
+                background: "#f4f4f4",
+                color: "#333",
+                boxShadow: "0 3px 6px rgba(0,0,0,0.1)",
+              }}
+              contentArrowStyle={{
+                borderRight: "7px solid #f4f4f4",
+              }}
+              date={item.duration}
+              iconStyle={{
+                background: "#6c63ff",
+                color: "#fff",
+              }}
+              icon={index % 2 === 0 ? <FaBriefcase /> : <FaLaptopCode />}
             >
-              <div className="ex-box">
-                <div className="row gy-4">
-                  <div className="col-md-4 col-lg-3">
-                    <div className="ex-left">
-                      <h4>{item.designation}</h4>
-                      <span>{item.company}</span>
-                      <p>{item.duration}</p>
-                      <label>{item.jobType}</label>
-                    </div>
-                  </div>
-                  <div className="col-md-8 col-lg-9">
-                    <div className="ex-right">
-                      <h5>{item.companyTitle}</h5>
-                      <p className="m-0">{item.companyDescription}</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+              <h4 className="vertical-timeline-element-title">
+                {item.designation}
+              </h4>
+              <h5 className="vertical-timeline-element-subtitle">
+                {item.company}
+              </h5>
+              <p className="vertical-timeline-element-description">
+                {item.companyDescription}
+              </p>
+              <p className="timeline-jobType">{item.jobType}</p>
+            </VerticalTimelineElement>
           ))}
-        </div>
+        </VerticalTimeline>
       </div>
     </section>
   );
