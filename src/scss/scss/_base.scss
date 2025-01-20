@@ -327,6 +327,20 @@ h5.vertical-timeline-element-subtitle {
 }
 
 /* Ensure the service box is fully responsive */
+.slick-arrow.slick-prev {
+  background: #FD4508 !important;
+  border: 2px solid #f3f1f1;
+}
+.slick-arrow.slick-next {
+  background: #FD4508 !important;
+  border: 2px solid #f1f1f1;
+}
+.slick-next:before{
+  display: none;
+}
+.slick-prev:before{
+  display: none;
+}
 .services-box {
   background-size: cover;
   background-position: center;
